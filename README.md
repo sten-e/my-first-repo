@@ -2,4 +2,4 @@
 
 Mijn foto:
 
-<img src="img/foto-git.png" alt="a picture"></img>
+<img src="img/foto-git.jpeg" alt="a picture"></img>
