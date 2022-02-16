@@ -6,4 +6,4 @@ Mijn foto:
 
 Link Zuyd:
 
-Hier volgt een link naar de [website van nu.nl](https://nu.nl), ga snel kijken!
+Hier volgt een link naar de [website van Zuyd Hogeschool](https://zuyd.nl), ga snel kijken!
